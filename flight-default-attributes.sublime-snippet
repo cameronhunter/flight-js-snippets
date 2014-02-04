@@ -1,0 +1,10 @@
+<snippet>
+	<description>Flight – Default Attributes</description>
+	<tabTrigger>defaultAttrs</tabTrigger>
+  <scope>source.js</scope>
+  <content><![CDATA[
+this.defaultAttrs({
+  "${1:attributeName}": "${2:attribute-value}"$0
+});
+]]></content>
+</snippet>
