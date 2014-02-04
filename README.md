@@ -1,8 +1,8 @@
 # Flight JS Snippets for Sublime Text
 
-These snippets are for [Flight](https://github.com/flightjs/flight). Install
-using [Package Control](https://sublime.wbond.net/), it's called
-`Flight JS Snippets`.
+These snippets are for [Flight](https://github.com/flightjs/flight). Install using [Package Control](https://sublime.wbond.net/), it's called `Flight JS Snippets`.
+
+Tab triggers exist for all of the snippets, you can also list the available snippets using `⌘-⇧-P` on OSX or `ctrl-shift-P` on Windows/Linux and searching for `Flight`.
 
 ## Supported snippets
 
