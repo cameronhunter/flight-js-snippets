@@ -2,9 +2,9 @@
 	<description>Flight – After (Advice)</description>
 	<tabTrigger>after</tabTrigger>
 	<scope>source.js</scope>
-  <content><![CDATA[
+	<content><![CDATA[
 this.after("${1:initialize}", function() {
-  $0
+	$0
 });
 ]]></content>
 </snippet>

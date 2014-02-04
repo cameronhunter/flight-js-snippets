@@ -2,9 +2,9 @@
 	<description>Flight – Attach Component</description>
 	<tabTrigger>attach</tabTrigger>
 	<scope>source.js</scope>
-  <content><![CDATA[
+	<content><![CDATA[
 ${1:myComponent}.attachTo("${2:#element}"${3:, \{
-  $0
+	$0
 \}});
 ]]></content>
 </snippet>

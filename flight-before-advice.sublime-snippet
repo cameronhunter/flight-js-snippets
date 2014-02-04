@@ -2,9 +2,9 @@
 	<description>Flight – Before (Advice)</description>
 	<tabTrigger>before</tabTrigger>
 	<scope>source.js</scope>
-  <content><![CDATA[
+	<content><![CDATA[
 this.before("${1:existingFunctionName}", function() {
-  $0
+	$0
 });
 ]]></content>
 </snippet>

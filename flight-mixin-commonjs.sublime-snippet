@@ -1,15 +1,15 @@
 <snippet>
 	<description>Flight – Mixin (CommonJS)</description>
 	<tabTrigger>mixin</tabTrigger>
-  <scope>source.js</scope>
-  <content><![CDATA[
+	<scope>source.js</scope>
+	<content><![CDATA[
 module.exports = with${1:MyMixin};
 
 function with${1:MyMixin}() {
 
-  this.${2:doSomething} = function() {
-    $0
-  };
+	this.${2:doSomething} = function() {
+		$0
+	};
 
 }
 

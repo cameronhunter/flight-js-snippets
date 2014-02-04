@@ -2,9 +2,9 @@
 	<description>Flight – Around (Advice)</description>
 	<tabTrigger>around</tabTrigger>
 	<scope>source.js</scope>
-  <content><![CDATA[
+	<content><![CDATA[
 this.around("${1:existingFunctionName}", function(${1:existingFunctionName}) {
-  $0
+	$0
 });
 ]]></content>
 </snippet>

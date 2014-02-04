@@ -1,8 +1,8 @@
 <snippet>
 	<description>Flight – Select Element</description>
 	<tabTrigger>select</tabTrigger>
-  <scope>source.js</scope>
-  <content><![CDATA[
+	<scope>source.js</scope>
+	<content><![CDATA[
 this.select("${1:attributeName}")${0:;}
 ]]></content>
 </snippet>
