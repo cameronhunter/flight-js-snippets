@@ -1,0 +1,13 @@
+{
+  "name": "flight-js-snippets",
+  "description": "Flight JS Snippets for Sublime Text",
+  "version": "0.0.0",
+  "authors": [
+    "Cameron Hunter <hello@cameronhunter.co.uk>"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-bump": "latest",
+    "matchdep": "latest"
+  }
+}
