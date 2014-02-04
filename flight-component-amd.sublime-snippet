@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Component (AMD)</description>
-	<tabTrigger>component</tabTrigger>
+	<tabTrigger>flight</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 define(function(require) {

@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Mixin (CommonJS)</description>
-	<tabTrigger>mixin</tabTrigger>
+	<tabTrigger>flight</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 module.exports = with${1:MyMixin};

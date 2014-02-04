@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Before (Advice)</description>
-	<tabTrigger>before</tabTrigger>
+	<tabTrigger>this.</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 this.before("${1:existingFunctionName}", function() {

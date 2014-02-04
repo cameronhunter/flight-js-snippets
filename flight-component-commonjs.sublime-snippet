@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Component (CommonJS)</description>
-	<tabTrigger>component</tabTrigger>
+	<tabTrigger>flight</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 var defineComponent = require("flight/lib/component");

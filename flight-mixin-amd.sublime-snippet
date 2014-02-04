@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Mixin (AMD)</description>
-	<tabTrigger>mixin</tabTrigger>
+	<tabTrigger>flight</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 define(function(require) {
