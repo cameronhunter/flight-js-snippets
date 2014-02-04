@@ -1,10 +1,8 @@
-# Flight JS Snippets for Sublime Text
+Thanks for installing Flight JS snippets! Below are some quick notes to get you
+started.
 
-These snippets are for [Flight](https://github.com/flightjs/flight). Install
-using [Package Control](https://sublime.wbond.net/), it's called
-`Flight JS Snippets`.
-
-## Supported snippets
+Supported snippets
+==================
 
 * Component and Mixin API
   - defineComponent (tab trigger: `flight`)
