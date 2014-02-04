@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – After (Advice)</description>
-	<tabTrigger>this.</tabTrigger>
+	<tabTrigger>this.after</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 this.after("${1:initialize}", function() {

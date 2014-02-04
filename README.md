@@ -9,11 +9,11 @@ Tab triggers exist for all of the snippets, you can also list the available snip
 * Component and Mixin API
   - defineComponent (tab trigger: `flight`)
   - Component.attachTo (tab trigger: `attachTo`)
-* Advice API (tab trigger: `this.`)
+* Advice API
   - this.before
   - this.after
   - this.around
-* Base API (tab trigger: `this.`)
+* Base API
   - this.defaultAttrs
   - this.select
   - this.on
