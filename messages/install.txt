@@ -1,6 +1,10 @@
 Thanks for installing Flight JS snippets! Below are some quick notes to get you
 started.
 
+Tab triggers exist for all of the snippets, you can also list the available
+snippets using `⌘-⇧-P` on OSX or `ctrl-shift-P` on Windows/Linux and searching
+for `Flight`.
+
 Supported snippets
 ==================
 
