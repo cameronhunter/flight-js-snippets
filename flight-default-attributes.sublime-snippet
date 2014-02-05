@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Default Attributes</description>
-	<tabTrigger>this.defaultAttrs</tabTrigger>
+	<tabTrigger>defaultAttrs</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 this.defaultAttrs({

@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Around (Advice)</description>
-	<tabTrigger>this.around</tabTrigger>
+	<tabTrigger>around</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 this.around("${1:existingFunctionName}", function(${1:existingFunctionName}) {

@@ -1,6 +1,6 @@
 <snippet>
 	<description>Flight – Unbind Event</description>
-	<tabTrigger>this.off</tabTrigger>
+	<tabTrigger>off</tabTrigger>
 	<scope>source.js</scope>
 	<content><![CDATA[
 this.off(${1:optionalElement, }"${2:eventName}"${3:, this.myEventHandler});
