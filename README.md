@@ -4,11 +4,19 @@ These snippets are for [Flight](https://github.com/flightjs/flight). Install usi
 
 Tab triggers exist for all of the snippets, you can also list the available snippets using `⌘-⇧-P` on OSX or `ctrl-shift-P` on Windows/Linux and searching for `Flight`.
 
-## Supported snippets
+## Snippets
 
-* Component and Mixin API
-  - defineComponent (tab trigger: `flight`)
-  - Component.attachTo (tab trigger: `attachTo`)
+* Component and Mixin API (tab trigger: `flight`)
+  - Component (AMD)
+  - Component (CommonJS)
+  - Component (Standalone)
+  - Mixin (AMD)
+  - Mixin (CommonJS)
+
+## Completions
+
+* Component API
+  - attachTo  
 * Advice API
   - this.before
   - this.after

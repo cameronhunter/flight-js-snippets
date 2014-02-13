@@ -1,8 +1,0 @@
-<snippet>
-	<description>Flight – Trigger Event</description>
-	<tabTrigger>trigger</tabTrigger>
-	<scope>source.js</scope>
-	<content><![CDATA[
-this.trigger(${1:optionalElement, }"${2:eventName}"${3:, \{\}});
-]]></content>
-</snippet>

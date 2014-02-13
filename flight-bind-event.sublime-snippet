@@ -1,8 +1,0 @@
-<snippet>
-	<description>Flight – Bind Event</description>
-	<tabTrigger>on</tabTrigger>
-	<scope>source.js</scope>
-	<content><![CDATA[
-this.on(${1:optionalElement, }"${2:eventName}", this.${3:myEventHandler});
-]]></content>
-</snippet>

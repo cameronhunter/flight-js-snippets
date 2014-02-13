@@ -1,0 +1,41 @@
+{
+	"scope": "source.js",
+	"completions": [
+		{
+			"trigger": "this.after", 
+			"contents": "this.after(\"${1:initialize}\", function() {\n$0\n});"
+		},
+		{
+			"trigger": "this.around",
+			"contents": "this.around(\"${1:existingFunctionName}\", function(${1:existingFunctionName}) {\n$0\n});"
+		},
+		{
+			"trigger": "this.before",
+			"contents": "this.before(\"${1:existingFunctionName}\", function() {\n$0\n});"
+		},
+		{
+			"trigger": "this.off",
+			"contents": "this.off(${1:optionalElement, }\"${2:eventName}\"${3:, this.myEventHandler});"
+		},
+		{
+			"trigger": "this.on",
+			"contents": "this.on(${1:optionalElement, }\"${2:eventName}\", this.${3:myEventHandler});"
+		},
+		{
+			"trigger": "this.select",
+			"contents": "this.select(\"${1:attributeName}\")${0:;}"
+		},
+		{
+			"trigger": "this.trigger",
+			"contents": "this.trigger(${1:optionalElement, }\"${2:eventName}\"${3:, \\{\\}});"
+		},
+		{
+			"trigger": "attachTo",
+			"contents": "attachTo(\"${1:#element}\"${2:, \\{$0\\}});"
+		},
+		{
+			"trigger": "this.defaultAttrs",
+			"contents": "this.defaultAttrs({\n\t\"${1:attributeName}\": \"${2:attribute-value}\"$0\n});"
+		}
+	]
+}
