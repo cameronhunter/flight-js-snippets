@@ -2,7 +2,7 @@
 	"scope": "source.js",
 	"completions": [
 		{
-			"trigger": "this.after", 
+			"trigger": "this.after",
 			"contents": "this.after(\"${1:initialize}\", function() {\n$0\n});"
 		},
 		{
