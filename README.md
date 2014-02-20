@@ -22,11 +22,14 @@ Use `tab` to move between the placeholders.
   - Component (Standalone)
   - Mixin (AMD)
   - Mixin (CommonJS)
+* Test API
+  - describeComponent
+  - describeMixin
 
 ## Completions
 
 * Component API
-  - attachTo  
+  - attachTo
 * Advice API
   - this.before
   - this.after

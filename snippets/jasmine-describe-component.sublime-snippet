@@ -1,0 +1,16 @@
+<snippet>
+	<description>Flight – Describe Component</description>
+	<tabTrigger>describe</tabTrigger>
+	<scope>source.js</scope>
+	<content><![CDATA[
+describeComponent("${1:component/hello-world}", function() {
+	beforeEach(function () {
+		setupComponent();
+	});
+
+	it("${2:should be defined}", function() {
+		${3:expect(this.component).toBeDefined();}$0
+	});
+});
+]]></content>
+</snippet>
