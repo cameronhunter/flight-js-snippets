@@ -4,6 +4,8 @@
 	<scope>source.js</scope>
 	<content><![CDATA[
 define(function(require) {
+	'use strict';
+
 	var defineComponent = require("flight/lib/component");
 
 	return defineComponent(${1:myComponent});
