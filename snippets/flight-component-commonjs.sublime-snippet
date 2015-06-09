@@ -9,7 +9,7 @@ module.exports = defineComponent(${1:myComponent});
 
 function ${1:myComponent}() {
 
-	this.defaultAttrs({
+	this.attributes({
 		"${2:attributeName}": "${3:default-value}"
 	});
 

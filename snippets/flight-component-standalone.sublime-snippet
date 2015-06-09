@@ -5,7 +5,7 @@
 	<content><![CDATA[
 var ${1:myComponent} = flight.component(function() {
 
-	this.defaultAttrs({
+	this.attributes({
 		"${2:attributeName}": "${3:default-value}"
 	});
 
