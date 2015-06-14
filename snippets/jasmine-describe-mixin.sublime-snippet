@@ -4,13 +4,15 @@
   <scope>source.js</scope>
   <content><![CDATA[
 describeMixin("${1:mixin/hello-world}", function() {
-  beforeEach(function () {
-    setupComponent();
-  });
+	'use strict';
+	
+	beforeEach(function() {
+		setupComponent();
+	});
 
-  it("${2:should…}", function() {
-    ${3:expect(this.component.doSomething()).toBe(expected);}$0
-  });
+	it("${2:should…}", function() {
+		${3:expect(this.component.doSomething()).toBe(expected);}$0
+	});
 });
 ]]></content>
 </snippet>
