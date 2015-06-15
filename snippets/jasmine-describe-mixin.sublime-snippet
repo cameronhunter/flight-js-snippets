@@ -4,8 +4,8 @@
   <scope>source.js</scope>
   <content><![CDATA[
 describeMixin("${1:mixin/hello-world}", function() {
-	'use strict';
-	
+	"use strict";
+
 	beforeEach(function() {
 		setupComponent();
 	});

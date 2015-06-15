@@ -26,7 +26,7 @@ Completions
   - this.after
   - this.around
 * Base API
-  - this.defaultAttrs
+  - this.attributes
   - this.select
   - this.on
   - this.off

@@ -35,7 +35,7 @@ Use `tab` to move between the placeholders.
   - this.after
   - this.around
 * Base API
-  - this.defaultAttrs
+  - this.attributes
   - this.select
   - this.on
   - this.off
