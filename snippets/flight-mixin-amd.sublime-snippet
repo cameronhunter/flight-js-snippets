@@ -4,11 +4,11 @@
 	<scope>source.js</scope>
 	<content><![CDATA[
 define(function(require) {
-	'use strict';
-	
-	return my${1:MyMixin};
+	"use strict";
 
-	function my${1:MyMixin}() {
+	return with${1:MyMixin};
+
+	function with${1:MyMixin}() {
 
 		this.${2:doSomething} = function() {
 			$0

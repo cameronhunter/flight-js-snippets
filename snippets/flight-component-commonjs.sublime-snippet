@@ -8,9 +8,9 @@ var defineComponent = require("flight/lib/component");
 module.exports = defineComponent(${1:myComponent});
 
 function ${1:myComponent}() {
-	'use strict';
-	
-	this.defaultAttrs({
+	"use strict";
+
+	this.attributes({
 		"${2:attributeName}": "${3:default-value}"
 	});
 

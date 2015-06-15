@@ -34,8 +34,8 @@
 			"contents": "attachTo(\"${1:#element}\"${2:, \\{$0\\}});"
 		},
 		{
-			"trigger": "this.defaultAttrs",
-			"contents": "this.defaultAttrs({\n\t\"${1:attributeName}\": \"${2:attribute-value}\"$0\n});"
+			"trigger": "this.attributes",
+			"contents": "this.attributes({\n\t\"${1:attributeName}\": \"${2:attribute-value}\"$0\n});"
 		}
 	]
 }

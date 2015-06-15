@@ -4,7 +4,7 @@
 	<scope>source.js</scope>
 	<content><![CDATA[
 describeComponent("${1:component/hello-world}", function() {
-	'use strict';
+	"use strict";
 
 	beforeEach(function() {
 		setupComponent();
