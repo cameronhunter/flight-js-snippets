@@ -6,7 +6,7 @@ These are [Flight JS](https://github.com/flightjs/flight) snippets for use with 
 
 Install using [Package Control](https://sublime.wbond.net/), it's called `Flight JS Snippets`.
 
-![How to install](http://www.cameronhunter.co.uk/flight-js-snippets/install.gif)
+![How to install](https://github.com/cameronhunter/flight-js-snippets/raw/master/docs/install.gif)
 
 ## Usage
 
@@ -14,7 +14,7 @@ Tab triggers exist for all of the snippets, you can also list the available snip
 
 Use `tab` to move between the placeholders.
 
-![How to create a component](http://www.cameronhunter.co.uk/flight-js-snippets/component.gif)
+![How to create a component](https://github.com/cameronhunter/flight-js-snippets/raw/master/docs/component.gif)
 
 * Component and Mixin API (tab trigger: `flight`)
   - Component (AMD)
